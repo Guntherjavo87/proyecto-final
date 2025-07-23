@@ -15,6 +15,6 @@ Este proyecto consiste en una API RESTful creada con **Node.js**, **Express** y 
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-final.git
+git clone https://github.com/Guntherjavo87/proyecto-final.git
 cd proyecto-final
 npm install
